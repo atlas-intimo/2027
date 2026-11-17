@@ -1,0 +1,4 @@
+Fonte: GeoNames (https://www.geonames.org/)
+Licença: Creative Commons Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+Base filtrada e reorganizada pelo Atlas Íntimo.
