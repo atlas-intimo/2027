@@ -8,7 +8,7 @@
 const CONFIG = Object.freeze({
     API_URL: "https://atlas-intimo-api.onrender.com",
     GEOCODIFICACAO_URL: "/cidades/",
-    COMPRAS_ATIVAS: false,
+    COMPRAS_ATIVAS: true,
     PRECO: 14.90,
     MOEDA: "BRL",
     TEMPO_BUSCA: 400,
